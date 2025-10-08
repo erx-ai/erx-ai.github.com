@@ -14,6 +14,7 @@
 ## 🎯 About
 
 ERX represents a unique fusion of artificial intelligence and everyday consumer experiences, 100% decision free.
+
 This project was commissioned for the [50th anniversary of the IRISA laboratory](https://www.irisa.fr/en/50-years-of-irisa) in Rennes, France. 
 
 ## 📅 Exhibition
@@ -38,8 +39,10 @@ Les Champs Libres, Rennes
 
 ## 📧 Contact
 
-**Louis Frehring** louisfrehring@proton.me | [website](https://louisfrehring.net/)
+**Louis Frehring** (artist) louisfrehring@proton.me | [website](https://louisfrehring.net/)
 
-**Erwan Le Merrer** erwan.le-merrer@inria.fr | [website](https://erwanlemerrer.github.io/)
+**Erwan Le Merrer** (researcher) erwan.le-merrer@inria.fr | [website](https://erwanlemerrer.github.io/)
+
+We thank Malo De Hedouville for his help in building ERX.
 
 ---
