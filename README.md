@@ -2,7 +2,7 @@
 # ERX - Your AI-based Enhanced Refreshment Experience
 
 <p align="center">
-  <img src="https://github.com/erx-ai/erx-ai.github.com/blob/main/side.jpg" alt="ERX Vending Machine" width="900"/>
+  <img src="https://raw.githubusercontent.com/erx-ai/erx-ai.github.com/main/side.jpg" alt="ERX Vending Machine" width="900"/>
 </p>
 
 <p align="center">
