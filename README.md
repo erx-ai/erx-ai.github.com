@@ -13,7 +13,8 @@
 
 ## 🎯 About
 
-This project was commissioned for the [50th anniversary of the IRISA laboratory](https://www.irisa.fr/en/50-years-of-irisa) in Rennes, France. ERX represents a unique fusion of artificial intelligence and everyday consumer experiences, 100% decision free.
+ERX represents a unique fusion of artificial intelligence and everyday consumer experiences, 100% decision free.
+This project was commissioned for the [50th anniversary of the IRISA laboratory](https://www.irisa.fr/en/50-years-of-irisa) in Rennes, France. 
 
 ## 📅 Exhibition
 
@@ -29,7 +30,7 @@ Les Champs Libres, Rennes
 - **[« C'est surprenant » : à Rennes, ce distributeur dopé à l'IA choisit votre boisson en vous étudiant](https://www.ouest-france.fr/bretagne/rennes-35000/cest-surprenant-a-rennes-ce-distributeur-dope-a-lia-choisit-votre-boisson-en-vous-etudiant-173466e6-a066-11f0-a698-dbf3ac8f3cb6)**  
   *Ouest-France* - October 3, 2025
 
-- **France 3 ICI 19/20 - Bretagne**  
+- **[France 3 ICI 19/20 - Bretagne](https://www.youtube.com/watch?v=DZRJDamPa8g)**  
   October 4, 2025 edition
 
 - **[À Rennes, un distributeur automatique choisit votre soda préféré grâce à l'intelligence artificielle](https://www.francebleu.fr/infos/insolite/a-rennes-un-distributeur-automatique-choisit-votre-soda-prefere-grace-a-l-intelligence-artificielle-2615999)**  
@@ -37,10 +38,8 @@ Les Champs Libres, Rennes
 
 ## 📧 Contact
 
-**Louis Frehring**  
-louisfrehring@proton.me
+**Louis Frehring** louisfrehring@proton.me | [website](https://louisfrehring.net/)
 
-**Erwan Le Merrer**  
-erwan.le-merrer@inria.fr
+**Erwan Le Merrer** erwan.le-merrer@inria.fr | [website](https://erwanlemerrer.github.io/)
 
 ---
