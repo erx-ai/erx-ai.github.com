@@ -13,7 +13,7 @@
 
 ## 🎯 About
 
-This project was commissioned for the [50th anniversary of the IRISA laboratory](https://www.irisa.fr/en/50-years-of-irisa) in Rennes, France. ERX represents a unique fusion of artificial intelligence and everyday consumer experiences.
+This project was commissioned for the [50th anniversary of the IRISA laboratory](https://www.irisa.fr/en/50-years-of-irisa) in Rennes, France. ERX represents a unique fusion of artificial intelligence and everyday consumer experiences, 100% decision free.
 
 ## 📅 Exhibition
 
