@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>An intelligent vending machine that analyzes your preferences to recommend the perfect beverage, leaving you no choice</strong>
+  <strong>An intelligent vending machine that analyzes your preferences to provide the perfect beverage, freeing you from the burden of choice</strong>
 </p>
 
 ---
@@ -38,7 +38,7 @@ Les Champs Libres, Rennes
   *France Bleu* - October 7, 2025
 
 - **[Aux Champs libre de Rennes, un distributeur dopé à l’IA révolutionne…rien du tout](https://unidivers.fr/distributeur-ia-boisson-personalise/)**  
-  *Unidivers* - October 8, 2025.
+  *Unidivers* - October 8, 2025
 
 ## 📧 Contact
 
@@ -46,6 +46,6 @@ Les Champs Libres, Rennes
 
 **Erwan Le Merrer** (researcher) erwan.le-merrer@inria.fr | [website](https://erwanlemerrer.github.io/)
 
-We thank Malo De Hedouville for his help in building ERX.
+We thank Malo De Hedouville for his work on ERX.
 
 ---
