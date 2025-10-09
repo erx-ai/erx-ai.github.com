@@ -37,6 +37,9 @@ Les Champs Libres, Rennes
 - **[À Rennes, un distributeur automatique choisit votre soda préféré grâce à l'intelligence artificielle](https://www.francebleu.fr/infos/insolite/a-rennes-un-distributeur-automatique-choisit-votre-soda-prefere-grace-a-l-intelligence-artificielle-2615999)**  
   *France Bleu* - October 7, 2025
 
+- **[Aux Champs libre de Rennes, un distributeur dopé à l’IA révolutionne…rien du tout](https://unidivers.fr/distributeur-ia-boisson-personalise/)**  
+  *Unidivers* - October 8, 2025.
+
 ## 📧 Contact
 
 **Louis Frehring** (artist) louisfrehring@proton.me | [website](https://louisfrehring.net/)
