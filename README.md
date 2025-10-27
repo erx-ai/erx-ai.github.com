@@ -15,7 +15,7 @@
 
 ERX represents a unique fusion of artificial intelligence and everyday consumer experiences, 100% decision free.
 
-This project was commissioned for the [50th anniversary of the IRISA laboratory](https://www.irisa.fr/en/50-years-of-irisa) in Rennes, France. 
+This project was commissioned for the [50th anniversary of the IRISA laboratory](https://www.irisa.fr/en/50-years-of-irisa) in Rennes, France, with the will to join efforts from an artist and a scientist.
 
 ## 📅 Exhibition
 
@@ -46,6 +46,6 @@ Les Champs Libres, Rennes
 
 **Erwan Le Merrer** (researcher) erwan.le-merrer@inria.fr | [website](https://erwanlemerrer.github.io/)
 
-We thank Malo De Hedouville for his work on ERX.
+The ERX machine thanks Malo De Hedouville for his work on its internal functioning.
 
 ---
