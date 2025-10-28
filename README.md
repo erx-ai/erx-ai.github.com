@@ -15,6 +15,9 @@
 
 ERX represents a unique fusion of artificial intelligence and everyday consumer experiences, 100% decision free.
 
+ERX is an interactive installation that takes the form of a beverage vending machine enhanced with artificial intelligence; instead of letting the user make their own selection, the machine initiates a dialogue. It observes and asks the visitor a few questions, to autonomously decides which drink they "should" receive.
+By turning a simple decision into an algorithmic process, ERX questions the dynamics of trust, belief, and control that shape our relationship with AI systems which, by their very nature, are largely opaque...
+
 This project was commissioned for the [50th anniversary of the IRISA laboratory](https://www.irisa.fr/en/50-years-of-irisa) in Rennes, France, with the will to join efforts from an artist and a scientist.
 
 ## 📅 Exhibition
