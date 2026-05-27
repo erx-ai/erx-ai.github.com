@@ -22,31 +22,31 @@ This project was commissioned for the [50th anniversary of the IRISA laboratory]
 
 ## 📅 Exhibition
 
-<table>
-  <tr>
-  <td align="center" width="33%" style="border: none;">
-
-  **Fête de la science**<br>
-  October 2-5, 2025<br>
-  Les Champs Libres, Rennes
-
-  </td>
-  <td align="center" width="33%" style="border: none;">
-
-  **Qu’est-ce qu’IA ?**<br>
-  May 20-23, 2026<br>
-  Musée des Transmissions, Cesson-Sévigné
-
-  </td>
-  <td align="center" width="33%" style="border: none;">
-
-  **Exhibition #3**<br>
-  September-, 2026<br>
-  Cube Garges, Garges-lès-Gonesse
-
-  </td>
-  </tr>
+  <table>
+    <tr style="border: none;">
+      <td align="center" width="25%" style="border: none;">
+        <strong>Fête de la science</strong><br>
+        October 2-5, 2025<br>
+        Les Champs Libres, Rennes
+      </td>
+      <td align="center" width="25%" style="border: none;">
+        <strong>Qu'est-ce qu'IA ?</strong><br>
+        May 20-23, 2026<br>
+        Musée des Transmissions, Cesson-Sévigné
+      </td>
+      <td align="center" width="25%" style="border: none;">
+        <strong>Nantes maker campus</strong><br>
+        June 5-7, 2026<br>
+        Les Machines de l'île, Nantes
+      </td>
+      <td align="center" width="25%" style="border: none;">
+        <strong>Exhibition #4</strong><br>
+        September, 2026<br>
+        Cube Garges, Garges-lès-Gonesse
+      </td>
+    </tr>
   </table>
+
 
 
 ## 📰 Press Coverage
