@@ -22,9 +22,32 @@ This project was commissioned for the [50th anniversary of the IRISA laboratory]
 
 ## 📅 Exhibition
 
-**Fête de la science**  
-October 2-5, 2025  
-Les Champs Libres, Rennes
+<table>
+  <tr>
+  <td align="center" width="33%" style="border: none;">
+
+  **Fête de la science**<br>
+  October 2-5, 2025<br>
+  Les Champs Libres, Rennes
+
+  </td>
+  <td align="center" width="33%" style="border: none;">
+
+  **Qu’est-ce qu’IA ?**<br>
+  May 20-23, 2026<br>
+  Musée des Transmissions, Cesson-Sévigné
+
+  </td>
+  <td align="center" width="33%" style="border: none;">
+
+  **Exhibition #3**<br>
+  September-, 2026<br>
+  Cube Garges, Garges-lès-Gonesse
+
+  </td>
+  </tr>
+  </table>
+
 
 ## 📰 Press Coverage
 
