@@ -42,7 +42,7 @@ This project was commissioned for the [50th anniversary of the IRISA laboratory]
       <td align="center" width="25%" style="border: none;">
         <strong>Exhibition #4</strong><br>
         September, 2026<br>
-        Cube Garges, Garges-lès-Gonesse
+        TBA
       </td>
     </tr>
   </table>
