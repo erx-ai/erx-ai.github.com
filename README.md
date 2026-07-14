@@ -78,4 +78,3 @@ By delegating the smallest of choices to an opaque system, ERX stages — at dri
 
 <br>
 
-<p align="center"><sub><em>ERX does not know what you want. Neither do you.</em></sub></p>
