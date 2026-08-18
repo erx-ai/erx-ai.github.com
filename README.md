@@ -48,7 +48,7 @@ By delegating the smallest of choices to an opaque system, ERX stages — at dri
 | **Fête de la science** | Les Champs Libres, Rennes | October 2–5, 2025 |
 | **Qu'est-ce qu'IA ?** | Musée des Transmissions, Cesson-Sévigné | May 20–23, 2026 |
 | **Nantes Maker Campus** | Les Machines de l'île, Nantes | June 5–7, 2026 |
-| *To be announced* | | September 2026 |
+| [**D’autres voix: langage · code · traduction**](https://www.lecubegarges.fr/app/uploads/2026/07/Brochure-grand-public-saison-26-27-web.pdf) | Le Cube, Garges | September 26 '26 - July '27 |
 
 <br>
 
