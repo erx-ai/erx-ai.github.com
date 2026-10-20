@@ -54,6 +54,8 @@ By delegating the smallest of choices to an opaque system, ERX stages — at dri
 
 ## Selected Press
 
+<sup>Beaux Arts</sup> · [Au Cube Garges, la réinvention numérique du langage explorée dans une exposition gratuite](https://www.beauxarts.com/videos/en-video-au-cube-garges-la-reinvention-numerique-du-langage-exploree-dans-une-exposition-gratuite/) — October 20, 2026
+
 <sup>OUEST-FRANCE</sup> · [Unique au monde, ce distributeur de boissons dopé à l'IA sonde vos envies](https://www.ouest-france.fr/bretagne/video-unique-au-monde-ce-distributeur-de-boissons-dopes-a-l-ia-sonde-vos-envies-3dcc649c-9821-4f3a-9ee2-c93a9418374c) — October 3, 2025
 
 <sup>OUEST-FRANCE</sup> · [« C'est surprenant » : à Rennes, ce distributeur dopé à l'IA choisit votre boisson en vous étudiant](https://www.ouest-france.fr/bretagne/rennes-35000/cest-surprenant-a-rennes-ce-distributeur-dope-a-lia-choisit-votre-boisson-en-vous-etudiant-173466e6-a066-11f0-a698-dbf3ac8f3cb6) — October 3, 2025
